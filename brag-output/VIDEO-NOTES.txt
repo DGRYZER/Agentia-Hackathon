@@ -1,0 +1,6 @@
+Deploy Weather demo video
+
+Duration: 28 seconds
+Format: 1280x720 MP4
+
+Use this as an opening or closing visual. For a live demo, run node deploy-weather.mjs after the Stormy slide.
